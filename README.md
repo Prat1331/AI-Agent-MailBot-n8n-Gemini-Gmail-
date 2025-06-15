@@ -17,3 +17,4 @@ This repository contains an intelligent email automation workflow built using n8
 
 ## 📁 Files
 - `workflows/ai-chat-to-email-workflow.json`: Main workflow definition.
+![Screenshot 2025-06-15 191522](https://github.com/user-attachments/assets/cca1b9e3-1922-4ec1-a4ed-1382b18b8cea)
